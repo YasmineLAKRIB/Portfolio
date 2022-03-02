@@ -110,7 +110,7 @@ ul{
     display: inline-block;
     white-space: nowrap;
     border: none;
-    background: var(--skin-color);
+    background-color: var(--skin-color);
     transition: all 0.3s ease;
 
 }
